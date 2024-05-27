@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "name": "Донер",
+    "image": "doner.jpg",
+    "category": "food",
+    "description" : "Some sort of useless text",
+    "price": 1300,
+    "storecount": 18,
+    "ordercount": 1245
+  },
+  {
+    "id": 1,
+    "name": "Вода",
+    "image": "water.jpg",
+    "category": "drink",
+    "description" : "Some sort of useless text",
+    "price": 600,
+    "storecount": 18,
+    "ordercount": 12450
+  },
+  {
+    "id": 2,
+    "name": "Донер 2",
+    "image": "doner2.jpg",
+    "category": "food",
+    "description" : "Some sort of useless text",
+    "price": 1500,
+    "storecount": 18,
+    "ordercount": 1245
+  },
+  {
+    "id": 3,
+    "name": "Донер 3",
+    "image": "doner3.jpg",
+    "category": "food",
+    "description" : "Some sort of useless text",
+    "price": 1600,
+    "storecount": 18,
+    "ordercount": 1245
+  },
+  {
+    "id": 123,
+    "name": "Стол Стиляга",
+    "image": "table.jpg",
+    "category": "mebel",
+    "description" : "Some sort of useless text",
+    "price": 16000,
+    "storecount": 13,
+    "ordercount": 12
+  },
+  {
+    "id": 1299,
+    "name": "Стул Стиляга",
+    "image": "chair.jpg",
+    "category": "mebel",
+    "description" : "Some sort of useless text",
+    "price": 16000,
+    "storecount": 13,
+    "ordercount": 12
+  },
+  {
+    "id": 12919,
+    "name": "Стул бандит",
+    "image": "chair2.jpg",
+    "category": "mebel",
+    "description" : "Some sort of useless text",
+    "price": 2500,
+    "storecount": 13,
+    "ordercount": 12
+  },
+  {
+    "id": 12929,
+    "name": "Кружка",
+    "image": "cup.jpg",
+    "category": "dishes",
+    "description" : "Some sort of useless text",
+    "price": 2800,
+    "storecount": 13,
+    "ordercount": 12
+  },
+  {
+    "id": 12939,
+    "name": "Кружка",
+    "image": "cup2.jpg",
+    "category": "dishes",
+    "description" : "Some sort of useless text",
+    "price": 2700,
+    "storecount": 13,
+    "ordercount": 12
+  },
+  {
+    "id": 12949,
+    "name": "Кружка",
+    "image": "cup3.jpg",
+    "category": "dishes",
+    "description" : "Some sort of useless text",
+    "price": 2600,
+    "storecount": 13,
+    "ordercount": 12
+  }
+]
